@@ -9,7 +9,7 @@
     ],
     "repository": "https://github.com/Cjxtpro1/txt_leech",
     "success_url": "https://t.me/royandson",
-    "stack": "heroku-22",
+    "stack": "container",
     "env": {
         "API_ID": {
             "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑨𝒑𝒊 𝑰𝑫",
